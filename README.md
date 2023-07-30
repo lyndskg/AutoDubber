@@ -1,6 +1,8 @@
 # AutoDub
 
-## Description: Automatic Dubbing for Multilingual Videos
+## Description: 
+Automatic Dubbing for Multilingual Videos
+
 
 AutoDub is an ambitious coding project that aims to automatically dub movies and other videos with audio in other languages. The project will leverage advanced Machine Learning (ML) techniques for speech recognition, text-to-speech synthesis, and lip-syncing to provide seamless and high-quality dubbing.
 
